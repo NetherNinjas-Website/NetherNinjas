@@ -1,0 +1,834 @@
+Create a fun, colorful, polished and highly memorable website for **Nether Ninjas**, a Minecraft-focused creative studio.
+
+# ABOUT NETHER NINJAS
+
+**Nether Ninjas** is a Minecraft content studio creating experiences for players of all ages, with a particular focus on younger audiences.
+
+We create projects across three main areas:
+
+* **Minecraft Realms**
+* **Minecraft Marketplace**
+* **Minecraft Education**
+
+Our goal is to create fun, accessible and memorable Minecraft experiences that encourage players to explore, play, learn and create.
+
+The website should communicate that Nether Ninjas is a professional studio, while still feeling playful, welcoming and full of personality.
+
+---
+
+# CORE AUDIENCE
+
+The final experiences created by Nether Ninjas are primarily designed for **children and younger players**.
+
+Because of this, the website should feel:
+
+* Fun
+* Friendly
+* Colorful
+* Playful
+* Creative
+* Safe
+* Approachable
+* Exciting
+* Easy to understand
+
+However, the website should NOT look childish or amateur.
+
+It should feel like a **professional creative studio that happens to make joyful Minecraft experiences for younger audiences**.
+
+Parents, educators, publishers and potential business partners should also feel that the company is professional and trustworthy.
+
+---
+
+# BRAND COLORS
+
+The main brand colors are:
+
+**Purple**
+Primary brand color.
+
+**White**
+Used for clean backgrounds, cards and contrast.
+
+**Black**
+Used for typography, outlines and strong visual contrast.
+
+Purple should be the dominant accent throughout the website.
+
+Use different shades of purple where appropriate, but keep the overall palette centered around:
+
+Purple + White + Black
+
+Avoid making the entire website dark.
+
+The website should primarily use bright white and light backgrounds, with purple sections and black accents.
+
+---
+
+# VISUAL STYLE
+
+The visual identity should be:
+
+**Cartoon + Minecraft + Modern + Playful**
+
+Use inspiration from modern children's games and polished Minecraft experiences.
+
+Important visual characteristics:
+
+* Thick rounded shapes
+* Soft corners
+* Cartoon-style illustrations
+* Playful typography
+* Bold headings
+* Black outlines
+* Purple accents
+* Floating elements
+* Minecraft-inspired shapes
+* Cute decorative details
+* Small animated elements
+* Friendly icons
+* Large screenshots of Minecraft worlds
+
+The design should feel alive.
+
+Avoid:
+
+* Corporate minimalism
+* Extremely dark gaming aesthetics
+* Realistic military/game studio aesthetics
+* Excessive gradients
+* Overly complicated interfaces
+* Generic stock illustrations
+
+---
+
+# BRAND PERSONALITY
+
+Nether Ninjas should feel like:
+
+**Creative**
+We build imaginative worlds.
+
+**Playful**
+Our projects are designed to be fun.
+
+**Curious**
+We encourage players to explore and discover.
+
+**Friendly**
+Our experiences should feel welcoming.
+
+**Professional**
+Behind the playful worlds is a serious creative team.
+
+---
+
+# NAVIGATION
+
+Create a sticky navigation bar.
+
+Left:
+
+**NETHER NINJAS**
+
+Use the Nether Ninjas logo.
+
+Navigation:
+
+* Home
+* Projects
+* About Us
+* What We Do
+* Team
+* Contact
+
+Right:
+
+**LET'S CREATE! →**
+
+The navigation should have rounded buttons and subtle playful animations.
+
+On mobile, use a rounded hamburger menu.
+
+---
+
+# HOME PAGE
+
+## HERO
+
+Create a large, colorful and playful hero section.
+
+Use a beautiful Minecraft environment created by Nether Ninjas as the main visual.
+
+The hero should feel like entering a Minecraft adventure.
+
+Add floating cartoon-like decorative elements around the environment.
+
+Possible decorative elements:
+
+* Stars
+* Clouds
+* Blocks
+* Small particles
+* Purple shapes
+* Arrows
+* Sparkles
+* Minecraft-inspired icons
+
+Main small label:
+
+**MINECRAFT CONTENT STUDIO**
+
+Main heading:
+
+**WE BUILD WORLDS TO PLAY, EXPLORE & LEARN.**
+
+Supporting text:
+
+**Nether Ninjas creates fun and memorable Minecraft experiences for Realms, Marketplace and Education.**
+
+Primary CTA:
+
+**EXPLORE OUR PROJECTS →**
+
+Secondary CTA:
+
+**MEET THE NINJAS →**
+
+Make the hero immediately communicate what Nether Ninjas does.
+
+---
+
+# FEATURED PROJECTS
+
+This should be one of the most important sections of the homepage.
+
+Heading:
+
+**WHAT ARE WE BUILDING?**
+
+Supporting text:
+
+**Take a look at some of the worlds and experiences we've been creating.**
+
+Create large colorful project cards.
+
+Each card should feel like a game cover.
+
+Every project card contains:
+
+* Large image
+* Project name
+* Category
+* Short description
+* Arrow button
+
+Example:
+
+## ISLAND PARTY
+
+Category:
+
+**REALMS**
+
+Description:
+
+**A tropical Minecraft resort packed with minigames, exploration and adventures.**
+
+Use bright tropical Minecraft imagery.
+
+---
+
+## ZOMBREak
+
+Category:
+
+**REALMS**
+
+Description:
+
+**A Minecraft dungeon crawler filled with dangerous enemies, exploration and exciting challenges.**
+
+Use darker Minecraft dungeon imagery while keeping the website card colorful.
+
+---
+
+## ROMANIAN TRADITIONAL HOUSES
+
+Category:
+
+**EDUCATION**
+
+Description:
+
+**Explore Romanian traditions and architecture while building your own traditional house in Minecraft.**
+
+Use Minecraft Romanian village imagery.
+
+---
+
+Add:
+
+**VIEW ALL PROJECTS →**
+
+---
+
+# THREE AREAS
+
+Create a visually distinctive section introducing the three main areas of Nether Ninjas.
+
+Heading:
+
+**WHAT WE CREATE**
+
+Use three large illustrated cards.
+
+Each card should have its own visual identity while staying within the purple, white and black brand.
+
+---
+
+## REALMS
+
+Icon / illustration:
+Minecraft adventure world.
+
+Title:
+
+**REALMS**
+
+Description:
+
+**Fun, replayable Minecraft experiences designed for players to explore, compete and play together.**
+
+CTA:
+
+**EXPLORE REALMS →**
+
+---
+
+## MARKETPLACE
+
+Icon / illustration:
+Minecraft marketplace-inspired environment.
+
+Title:
+
+**MARKETPLACE**
+
+Description:
+
+**Creative maps, adventures and content designed to bring new experiences into Minecraft.**
+
+CTA:
+
+**EXPLORE MARKETPLACE →**
+
+---
+
+## EDUCATION
+
+Icon / illustration:
+Minecraft classroom / book / learning environment.
+
+Title:
+
+**EDUCATION**
+
+Description:
+
+**Interactive Minecraft experiences designed to make learning more engaging, creative and memorable.**
+
+CTA:
+
+**DISCOVER EDUCATION →**
+
+---
+
+# ABOUT US
+
+Create a playful but professional section.
+
+Heading:
+
+**WHO ARE THE NINJAS?**
+
+Text:
+
+**Nether Ninjas is a Minecraft-focused creative studio made up of people who love building worlds, designing gameplay and creating experiences that players remember.**
+
+**From playful adventures to educational experiences, we combine level design, environment art, game design and development to create worlds with a purpose.**
+
+Add a large illustrated group image or Minecraft environment.
+
+CTA:
+
+**MEET THE TEAM →**
+
+---
+
+# OUR PHILOSOPHY
+
+Create a section with a large playful illustration.
+
+Heading:
+
+**WE BELIEVE EVERY WORLD SHOULD HAVE A STORY.**
+
+Then introduce three principles.
+
+### PLAY
+
+**Games should be fun first.**
+
+We design experiences that encourage players to interact, explore and play together.
+
+### EXPLORE
+
+**There should always be something around the corner.**
+
+We use level design and environmental storytelling to make exploration rewarding.
+
+### LEARN
+
+**Learning can be an adventure.**
+
+Our Education projects turn Minecraft into an interactive environment where players can learn through doing.
+
+---
+
+# OUR PROCESS
+
+Create a playful four-step process.
+
+Heading:
+
+**FROM IDEA TO WORLD**
+
+### 01 — IDEA
+
+Everything starts with a simple idea.
+
+### 02 — DESIGN
+
+We turn the idea into gameplay, environments and experiences.
+
+### 03 — BUILD
+
+Our team brings the world to life inside Minecraft.
+
+### 04 — PLAY
+
+We test, improve and polish the experience until it is ready for players.
+
+Use playful numbered illustrations.
+
+The numbers should look like physical cartoon objects or Minecraft blocks.
+
+---
+
+# PROJECTS PAGE
+
+Create a dedicated Projects page.
+
+Heading:
+
+**OUR WORLDS**
+
+Supporting text:
+
+**Explore the Minecraft experiences we've created.**
+
+Add category filters:
+
+**ALL**
+**REALMS**
+**MARKETPLACE**
+**EDUCATION**
+
+Each project should be presented as a large visual card.
+
+Project cards should include:
+
+* Cover image
+* Project title
+* Category
+* Short description
+* Status
+* View Project button
+
+The page should feel like browsing a collection of Minecraft game worlds.
+
+---
+
+# PROJECT DETAIL PAGE
+
+Create a reusable project page template.
+
+Hero:
+
+Large project artwork.
+
+Title:
+
+**PROJECT NAME**
+
+Category:
+
+**REALMS / MARKETPLACE / EDUCATION**
+
+Short description.
+
+Then:
+
+## ABOUT THE PROJECT
+
+Detailed project description.
+
+## WHAT WE DID
+
+Show relevant roles:
+
+* Level Design
+* Environment Art
+* Game Design
+* Development
+* Creative Direction
+
+Only show the roles relevant to each project.
+
+## FEATURES
+
+Display gameplay features as playful cards.
+
+## GALLERY
+
+Large screenshot gallery.
+
+Use rounded corners and subtle animations.
+
+## RELATED PROJECTS
+
+Show three other projects at the bottom.
+
+---
+
+# ABOUT US PAGE
+
+Heading:
+
+**MEET NETHER NINJAS**
+
+Subheading:
+
+**A bunch of creators building worlds in Minecraft.**
+
+Explain the company in a friendly but professional way.
+
+Include:
+
+* Who we are
+* What we create
+* Our philosophy
+* Our values
+* Our approach to game design
+* Our focus on younger players
+
+Use Minecraft screenshots, illustrations and playful decorative elements.
+
+---
+
+# TEAM PAGE
+
+Heading:
+
+**MEET THE NINJAS**
+
+Make the team section feel fun.
+
+Each member gets a large rounded profile card.
+
+Include:
+
+* Photo / avatar
+* Name
+* Role
+* Short description
+
+Example roles:
+
+CEO
+Creative Director
+Level Designer
+Environment Artist
+Developer
+Game Designer
+Model Artist
+
+Do NOT invent team member names.
+
+Use placeholders where information is not provided.
+
+Allow profile cards to have small playful decorations such as stars, arrows, blocks or ninja-themed elements.
+
+---
+
+# WHAT WE DO PAGE
+
+Heading:
+
+**WHAT CAN WE BUILD TOGETHER?**
+
+Explain the creative services Nether Ninjas provides.
+
+Sections:
+
+### LEVEL DESIGN
+
+Designing spaces around player movement, exploration and gameplay.
+
+### ENVIRONMENT ART
+
+Creating colorful, detailed and memorable Minecraft environments.
+
+### GAME DESIGN
+
+Creating mechanics and gameplay experiences that are easy to understand and fun to play.
+
+### DEVELOPMENT
+
+Turning ideas into functional Minecraft experiences.
+
+### EDUCATIONAL DESIGN
+
+Creating Minecraft experiences that combine gameplay and learning.
+
+### CREATIVE DIRECTION
+
+Making sure the art, gameplay and experience work together.
+
+---
+
+# CONTACT PAGE
+
+Heading:
+
+**LET'S BUILD SOMETHING AWESOME.**
+
+Supporting text:
+
+**Have an idea, project or collaboration in mind? We'd love to hear about it.**
+
+Contact form:
+
+Name
+Email
+Company / Organization
+Project Type
+Message
+
+Project Type dropdown:
+
+* Realms
+* Marketplace
+* Education
+* Collaboration
+* Other
+
+Button:
+
+**SEND MESSAGE →**
+
+Also include:
+
+**Business inquiries**
+**Partnerships**
+**General inquiries**
+
+Add Discord and other official social links when available.
+
+Do not invent social URLs.
+
+---
+
+# FOOTER
+
+Use a large playful footer.
+
+Purple background.
+
+White logo.
+
+Text:
+
+**NETHER NINJAS**
+
+Tagline:
+
+**BUILD. PLAY. EXPLORE.**
+
+Navigation:
+
+Home
+Projects
+About Us
+What We Do
+Team
+Contact
+
+Social links.
+
+Bottom:
+
+**© 2026 Nether Ninjas. All rights reserved.**
+
+Privacy Policy
+Terms of Use
+
+---
+
+# ANIMATIONS
+
+Animations should make the website feel alive without becoming distracting.
+
+Use:
+
+* Smooth scrolling
+* Cards slightly moving on hover
+* Images gently scaling
+* Buttons with playful movement
+* Floating decorative elements
+* Small particles
+* Scroll reveal animations
+* Subtle parallax effects
+* Cartoon elements moving slightly
+
+For example, when hovering over a project card:
+
+The image slightly zooms in.
+
+The card moves upward by a few pixels.
+
+The arrow moves to the right.
+
+The project title remains clearly readable.
+
+---
+
+# MICRO-INTERACTIONS
+
+Add small details throughout the site.
+
+Examples:
+
+A small purple sparkle appears when hovering over important buttons.
+
+Project cards can have tiny animated Minecraft-inspired particles.
+
+Navigation buttons can slightly bounce or move.
+
+Section illustrations can have subtle floating animations.
+
+Keep everything smooth and polished.
+
+---
+
+# TYPOGRAPHY
+
+Use a bold, rounded and playful display font for headings.
+
+Body text should use a clean, highly readable modern sans-serif.
+
+The typography should feel friendly and accessible.
+
+Avoid overly futuristic or aggressive gaming fonts.
+
+Headings should be bold and large.
+
+---
+
+# ACCESSIBILITY
+
+Because the website represents a company whose experiences are designed for younger audiences:
+
+* Keep text easy to understand.
+* Maintain strong contrast.
+* Use clear buttons.
+* Avoid excessive text walls.
+* Use clear navigation.
+* Make interactive elements obvious.
+* Make the website fully responsive.
+
+---
+
+# RESPONSIVE DESIGN
+
+Desktop:
+
+Large illustrations, cinematic project cards and playful layouts.
+
+Tablet:
+
+Adapt grids and spacing.
+
+Mobile:
+
+Single-column layouts.
+
+Large touch-friendly buttons.
+
+Simple navigation.
+
+Optimized images.
+
+No horizontal scrolling.
+
+---
+
+# IMPORTANT BRAND RULES
+
+The website should consistently use:
+
+**PURPLE + WHITE + BLACK**
+
+The visual identity should be:
+
+**CARTOONY + MINECRAFT + PLAYFUL + PROFESSIONAL**
+
+Do NOT make it:
+
+* Dark and intimidating
+* Corporate
+* Generic
+* Too childish
+* Overly realistic
+* Full of Minecraft textures
+* Similar to a Minecraft server website
+
+The website should look like a **real creative studio website made for a young audience**.
+
+---
+
+# CORE MESSAGE
+
+The website should communicate one central idea:
+
+**Nether Ninjas creates Minecraft worlds that people want to play, explore and learn from.**
+
+The three most important categories are:
+
+**REALMS**
+**MARKETPLACE**
+**EDUCATION**
+
+The projects should be the visual centerpiece of the website.
+
+Make the final result feel like a website that a child would find exciting, while a parent, teacher, publisher or business partner would immediately recognize as professional.
+
+
+
+Here you can find some references:
+- https://sparkuniverse.com/
+- https://www.team-workbench.com/
+- https://starfishstudios.com/
+- https://eternalcreations.games/
+

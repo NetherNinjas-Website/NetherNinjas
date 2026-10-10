@@ -1,26 +1,178 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Semantic colors that switch between light and dark mode */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --canvas: #ffffff;
+  --surface: #ffffff;
+  --fg: #010109;
+  --tint: #f6f2fd;
+  --tint-strong: #ece8f8;
+  --accent: #431eba;
+  --pop: #010109;
+  --dot: #d9d1f1;
+  color-scheme: light;
+}
+
+.dark {
+  --canvas: #120d22;
+  --surface: #221a3d;
+  --fg: #f2f2f0;
+  --tint: #1a1430;
+  --tint-strong: #2a2050;
+  --accent: #c8bbea;
+  --pop: #7b3fd0;
+  --dot: #2f2558;
+  color-scheme: dark;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-fg: var(--fg);
+  --color-tint: var(--tint);
+  --color-tint-strong: var(--tint-strong);
+  --color-accent: var(--accent);
+  --color-pop: var(--pop);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Palette from the Nether Ninjas brandbook */
+@theme {
+  --color-ninja-50: #f6f2fd;
+  --color-ninja-100: #ece8f8;
+  --color-ninja-200: #d9d1f1;
+  --color-ninja-300: #c8bbea;
+  --color-ninja-400: #a38ddd; /* Pastel Purple */
+  --color-ninja-500: #9751e1; /* Lavender Indigo, logo purple */
+  --color-ninja-600: #7b3fd0;
+  --color-ninja-700: #431eba; /* Violet Blue, brand accent */
+  --color-ninja-800: #30235a; /* Cloud Burst, brand primary */
+  --color-ninja-900: #1d1538;
+  --color-ink: #010109;
+  --color-paper: #f2f2f0;
+  --color-sun: #ffd23f;
+  --color-mint: #5ee6a8;
+  --color-sky: #6ad1ff;
+  --color-coral: #ff7a8a;
+
+  --font-display: var(--font-fredoka), ui-rounded, system-ui, sans-serif;
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-pop: 6px 6px 0 0 var(--pop);
+  --shadow-pop-sm: 3px 3px 0 0 var(--pop);
+  --shadow-pop-lg: 10px 10px 0 0 var(--pop);
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-float-slow: float 9s ease-in-out infinite;
+  --animate-wiggle: wiggle 3s ease-in-out infinite;
+  --animate-spin-slow: spin 18s linear infinite;
+  --animate-twinkle: twinkle 2.4s ease-in-out infinite;
+  --animate-marquee: marquee 30s linear infinite;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0) rotate(var(--r, 0deg)); }
+    50% { transform: translateY(-14px) rotate(calc(var(--r, 0deg) + 4deg)); }
+  }
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(-4deg); }
+    50% { transform: rotate(4deg); }
+  }
+  @keyframes twinkle {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(0.6); opacity: 0.5; }
+  }
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--canvas);
+  color: var(--fg);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background: var(--color-ninja-500);
+  color: #fff;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+/* Scroll reveal (see components/Reveal.tsx) */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease, transform 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);
+  transition-delay: var(--delay, 0ms);
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* Dotted purple background used on light sections */
+.bg-dots {
+  background-image: radial-gradient(var(--dot) 1.6px, transparent 1.6px);
+  background-size: 22px 22px;
+}
+
+/* Logo PNGs are white-on-transparent; this lets them take any color */
+.logo-mask {
+  background-color: currentColor;
+  mask-repeat: no-repeat;
+  mask-position: left center;
+  mask-size: contain;
+}
+
+/* Portable Text (blog) */
+.prose-ninja {
+  font-size: 1.125rem;
+  line-height: 1.8;
+}
+.prose-ninja > * + * { margin-top: 1.25em; }
+.prose-ninja h2 { font-size: 2rem; font-weight: 700; line-height: 1.2; margin-top: 1.8em; }
+.prose-ninja h3 { font-size: 1.5rem; font-weight: 700; line-height: 1.3; margin-top: 1.6em; }
+.prose-ninja a { color: var(--accent); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+.prose-ninja ul { list-style: disc; padding-left: 1.5em; }
+.prose-ninja ol { list-style: decimal; padding-left: 1.5em; }
+.prose-ninja li + li { margin-top: 0.4em; }
+.prose-ninja blockquote {
+  border-left: 6px solid var(--color-ninja-500);
+  background: var(--tint);
+  padding: 1em 1.25em;
+  border-radius: 0 1rem 1rem 0;
+  font-weight: 500;
+}
+.prose-ninja code {
+  background: var(--tint-strong);
+  padding: 0.15em 0.4em;
+  border-radius: 6px;
+  font-size: 0.9em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .reveal { opacity: 1; transform: none; }
 }
